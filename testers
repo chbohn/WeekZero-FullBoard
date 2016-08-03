@@ -1,0 +1,8 @@
+		System.out.println(
+				emptyBoards.get(0).setStart(1, 4).move(Direction.DOWN).move(Direction.RIGHT).move(Direction.DOWN));
+				
+		for (Direction d : Direction.values()) {
+			Board b = new Board(emptyBoards.get(0)).setStart(1, 1).move(d);
+			if (b != null)
+				System.out.println(b);
+		}

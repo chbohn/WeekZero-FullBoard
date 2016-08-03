@@ -1,0 +1,169 @@
+map
+No solution
+▓▓▓▓▓▓▓
+▓▓    ▓
+▓     ▓
+▓  ▓▓ ▓
+▓ ▓   ▓
+▓   ▓ ▓
+▓▓▓▓▓▓▓
+endmap
+map
+13 moves
+solution
+▓▓▓▓▓▓▓▓▓
+▓←←←←←←↑▓
+▓↓↑→→→→↑▓
+▓↓↑↑→F↓↑▓
+▓↓↑↑▓▓↓↑▓
+▓↓↑↑▓←↓↑▓
+▓↓↑←←↓▓↑▓
+▓↓→▓S→→→▓
+▓▓▓▓▓▓▓▓▓
+endsolution
+endmap
+map
+9 moves
+solution
+▓▓▓▓▓▓▓
+▓↑→→→→▓
+▓↑▓▓←↓▓
+▓↑▓F↓▓▓
+▓←←←←↑▓
+▓▓S→→→▓
+▓▓▓▓▓▓▓
+endsolution
+endmap
+map
+9 moves
+solution
+▓▓▓▓▓▓▓
+▓▓←←←↑▓
+▓▓↓→F↑▓
+▓←←←S↑▓
+▓↓→→▓↑▓
+▓▓▓↓→→▓
+▓▓▓▓▓▓▓
+endsolution
+solution
+▓▓▓▓▓▓▓
+▓▓←↑↑→▓
+▓▓↓↑↑↓▓
+▓F↓↑S↓▓
+▓←↓↑▓↓▓
+▓▓▓←←↓▓
+▓▓▓▓▓▓▓
+endsolution
+endmap
+map
+12 moves
+solution
+▓▓▓▓▓▓▓▓▓
+▓←←←←←←↑▓
+▓↓←←←↑▓↑▓
+▓↓↓F↑↑▓↑▓
+▓↓↓▓↑↑▓↑▓
+▓↓↓▓↑↑S↑▓
+▓↓↓→→↑↓↑▓
+▓↓→→→→↓→▓
+▓▓▓▓▓▓▓▓▓
+endsolution
+endmap
+map
+9 moves
+solution
+▓▓▓▓▓▓▓
+▓▓←↑▓▓▓
+▓←↓↑←↑▓
+▓↓▓↑↓↑▓
+▓↓▓SF↑▓
+▓↓→→→→▓
+▓▓▓▓▓▓▓
+endsolution
+endmap
+map
+8 moves
+solution
+▓▓▓▓▓▓▓
+▓←←←S▓▓
+▓↓→→→→▓
+▓▓▓F▓↓▓
+▓↑→→▓↓▓
+▓←←←←↓▓
+▓▓▓▓▓▓▓
+endsolution
+endmap
+map
+7 moves
+solution
+▓▓▓▓▓▓▓
+▓↑→→→▓▓
+▓↑F▓↓S▓
+▓↑←←↓↓▓
+▓↑▓▓▓↓▓
+▓←←←←↓▓
+▓▓▓▓▓▓▓
+endsolution
+endmap
+map
+10 moves
+solution
+▓▓▓▓▓▓▓
+▓↑→→→→▓
+▓↑▓↑F↓▓
+▓↑▓↑▓↓▓
+▓←↑←↑↓▓
+▓▓S▓←↓▓
+▓▓▓▓▓▓▓
+endsolution
+endmap
+map
+16 moves
+solution
+▓▓▓▓▓▓▓▓▓
+▓←←←←←←↑▓
+▓↓→→→→→↑▓
+▓▓▓▓←↑↓↑▓
+▓←←←↓↑↓↑▓
+▓↓→→S↑↓↑▓
+▓▓▓↓↓←↓↑▓
+▓F←↓↓→→→▓
+▓▓▓▓▓▓▓▓▓
+endsolution
+endmap
+map
+10 moves
+solution
+▓▓▓▓▓▓▓
+▓←←←S▓▓
+▓↓↑→→▓▓
+▓↓↑▓↓▓▓
+▓↓←↑↓→▓
+▓↓→→▓F▓
+▓▓▓▓▓▓▓
+endsolution
+endmap
+map
+13 moves
+solution
+▓▓▓▓▓▓▓▓
+▓↑→▓↑→→▓
+▓↑↓→→▓↓▓
+▓←←←←S↓▓
+▓←←←←←↓▓
+▓↓▓F←↑▓▓
+▓↓→→→→▓▓
+▓▓▓▓▓▓▓▓
+endsolution
+endmap
+map
+No solution
+▓▓▓▓▓▓▓
+▓▓    ▓
+▓  ▓  ▓
+▓  ▓  ▓
+▓   ▓ ▓
+▓  ▓  ▓
+▓▓▓▓▓▓▓
+endmap
+Complete
